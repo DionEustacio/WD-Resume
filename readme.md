@@ -4,9 +4,9 @@
 
 <br/>
   <div align="right">
-  <a href="https://github.com/NocLi21/">
+  <a href="https://github.com/DionEustacio/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-  <img src="5621b4e1-c95c-42d2-817e-9d0a86678e56-removebg-preview.png" width="150" height="150">
+  <img src="https://i.ibb.co/0txSG6G/5621b4e1-c95c-42d2-817e-9d0a86678e56-removebg-preview.png" width="150" height="150">
 
   </a>
 
